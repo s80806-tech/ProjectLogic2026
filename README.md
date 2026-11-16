@@ -1,6 +1,6 @@
 # ProjectLogic2026
 
-Project Name : Online University Attendance System
+Project Name : Online Food Ordering System
 
 TEAM ROLES 
 1. Name : Nurul Ileeya Maisarah Binti Mohd Azman
